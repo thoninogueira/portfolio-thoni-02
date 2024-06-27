@@ -78,8 +78,8 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para abrir iss
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ## Ver demonstração
-[Versel](https://challenge-one-alurageek-main.vercel.app/)<br>
-[Github Pages](https://thoninogueira.github.io/portfolio-02-main/)<br>
+[Versel](https://challenge-portfolio-mu.vercel.app/)<br>
+[Github Pages](https://thoninogueira.github.io/portfolio-pesssoal-main/)<br>
 
 
 ## Autor
