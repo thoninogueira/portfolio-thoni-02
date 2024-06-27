@@ -79,16 +79,13 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para abrir iss
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-Desenvolvido por Thoni Nogueira - 2024. Contato: thoninogueira2805@gmail.com
-
-
-
 ## Ver demonstração
 [Versel](https://challenge-one-alurageek-main.vercel.app/)<br>
 [Github Pages](https://thoninogueira.github.io/portfolio-02-main/)<br>
 
 
 ## Autor
+. Desenvolvido por Thoni Nogueira - 2024. Contato: thoninogueira2805@gmail.com
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/154802638?s=400&u=11fcb6503047b8538cf2bd2071b739954f484fe1&v=4" width=115><br><sub text-decoration="none">Thoni Nogueira</sub>](https://github.com/thoninogueira) |
 | :---: |
 
