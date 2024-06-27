@@ -52,15 +52,15 @@ Contato: Formulário para facilitar a comunicação com Thoni, além de links pa
 ## Como Executar o Projeto
 Clone o repositório para o seu ambiente local:
 
-bash
-Copiar código
-git clone https://github.com/thoninogueira/portfolio-thoni-02.git
-Navegue até o diretório do projeto:
+. bash
+. Copiar código
+. git clone https://github.com/thoninogueira/portfolio-thoni-02.git
+. Navegue até o diretório do projeto:
 
-bash
-Copiar código
+. bash
+. Copiar código
 cd portfolio-thoni-02
-Abra o arquivo index.html em seu navegador para visualizar o portfólio.
+. Abra o arquivo index.html em seu navegador para visualizar o portfólio.
 
 ## Tecnologias Utilizadas
 * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo HTML">
