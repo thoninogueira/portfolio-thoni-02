@@ -6,7 +6,7 @@ Este é o portfólio pessoal de Thoni Nogueira, um desenvolvedor Front-End em fo
 ## Dependências 
 `json-server`
 ## Imagem
-![Imagem do Projeto][def]
+![Imagem do Projeto](assets/captura_de_tela_portfolio.jpeg)
 ## Funcionalidades
 * Menu de Navegação
 Sobre mim: Seção dedicada a uma breve biografia de Thoni, incluindo sua paixão por tecnologia e objetivos de carreira.
@@ -89,6 +89,3 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/154802638?s=400&u=11fcb6503047b8538cf2bd2071b739954f484fe1&v=4" width=115><br><sub text-decoration="none">Thoni Nogueira</sub>](https://github.com/thoninogueira) |
 | :---: |
 
-
-
-[def]: assets/captura_de_tela_portfolio.jpeg
