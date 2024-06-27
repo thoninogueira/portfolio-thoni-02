@@ -85,7 +85,6 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 
 
 ## Autor
-. Desenvolvido por:
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/154802638?s=400&u=11fcb6503047b8538cf2bd2071b739954f484fe1&v=4" width=115><br><sub text-decoration="none">Thoni Nogueira - 2024</sub>](https://github.com/thoninogueira) |
 . Contato: thoninogueira2805@gmail.com
 | :---: |
