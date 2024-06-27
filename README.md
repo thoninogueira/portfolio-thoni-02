@@ -6,7 +6,7 @@ Este é o portfólio pessoal de Thoni Nogueira, um desenvolvedor Front-End em fo
 ## Dependências 
 `json-server`
 ## Imagem
-![Imagem do Projeto](assets/captura_de_tela_portfolio.jpeg)
+![Imagem do Projeto](/portfolio-main/assets/captura_de_tela_portfolio.jpeg)
 ## Funcionalidades
 * Menu de Navegação
 Sobre mim: Seção dedicada a uma breve biografia de Thoni, incluindo sua paixão por tecnologia e objetivos de carreira.
@@ -59,7 +59,7 @@ Clone o repositório para o seu ambiente local:
 
 . bash
 . Copiar código
-cd portfolio-thoni-02
+. cd portfolio-thoni-02
 . Abra o arquivo index.html em seu navegador para visualizar o portfólio.
 
 ## Tecnologias Utilizadas
